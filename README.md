@@ -21,3 +21,7 @@ S. Bhowmik, S.Reno, S. Sultana, M. Ahmed, “Clusterization of Different Vulnera
 ICICV 2021:
 
 K.S. Alam, S. Bhowmik, P.R.K. Prosun, “Cyberbullying Detection: An Ensemble Based Machine Learning Approach”, 2021 Third International Conference on Intelligent Communication Technologies and Virtual Mobile Networks (ICICV), IEEE, pp. 710-715, 2021, doi: 10.1109/ICICV50876.2021.9388499.
+
+ACMI 2021:
+S. Reno, S. Bhowmik, M. Ahmed, "Utilizing IPFS and Private Blockchain to Secure Forensic Information", The International Conference on Automation, Control and Mechatronics for Industry 4.0 (ACMI 2021), IEEE, 8-9 July, 2021.
+
